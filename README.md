@@ -1,2 +1,2 @@
 # gitdemo
-this is all about for git and github
+this is all about information git and github
